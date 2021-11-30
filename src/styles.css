@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 20rem;
+  height: 1.5rem;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.2rem;
+}
+
+span {
+  font-size: 1.6rem;
+  margin: 0.6rem auto;
+  padding: 0.6rem;
+  cursor: pointer;
+}
